@@ -16,3 +16,5 @@
 3. Создание новых признаков
 4. Преобразование признаков
 5. Отбор признаков
+
+Ссылка на соревнование на Kaggle https://www.kaggle.com/competitions/sf-booking/overview
